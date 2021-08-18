@@ -15,7 +15,7 @@ env:
   CLUSTERNAME: "test-golang-devops"
   APPINSIGHTSLOCATION: "East Asia"
   CLUSTERLOCATION: "East Asia"
-  AGENTCOUNT: "2"
+  AGENTCOUNT: "3"
   AGENTVMSIZE: "Standard_B2s"
   KUBERNETESVERSION: 1.18.17
   OMSLOCATION: "East Asia"
