@@ -12,7 +12,7 @@ env:
   REGISTRYSKU: "Standard"
   REGISTRYNAME: "testgolangdevopsacr"
   REGISTRYLOCATION: "East Asia"
-  CLUSTERNAME: "test-golang-devops"
+  CLUSTERNAME: "test-golang-devops-a1"
   APPINSIGHTSLOCATION: "East Asia"
   CLUSTERLOCATION: "East Asia"
   AGENTCOUNT: "3"
